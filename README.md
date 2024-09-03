@@ -47,7 +47,7 @@
 [![Top Trends](https://api.githubtrends.io/user/svg/bashputi/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashputi)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bashputi&show_icons=true)  
+
 
 
 
