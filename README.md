@@ -1,8 +1,7 @@
-## Hi there 👋
 
-### Hi there 👋, my name is bashputi
+## Hi there 👋, my name is Ahsanur Rahman Tonmoy
 #### I am MERN stack developer
-![I am MERN stack developer](https://i.ibb.co/qYByCd1/Screenshot-2023-12-09-123414.png)
+![I am MERN stack developer]()
 
 🚀 Passionate MERN stack developer crafting seamless web experiences.
 🌟 Frontend wizard with React.js, backend enthusiast with Node.js.
