@@ -31,15 +31,15 @@
 
 - 💬 Ask me about *react, tailwind, daisy UI, mongoDB*
   
-- 📫 How to reach me: rimeislam672@gmail.com 
+- 📫 How to reach me: ahosant82@gmail.com 
 
 - ⚡ Fun fact:  I'm an aspiring baker! I enjoy creating delicious cakes almost as much as I love crafting code.
 
   <h3> Contact Me With</h3>
 
-   [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bashputi)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rime-islam-b8a2142a1/)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='linkedin' height='40'>](https://www.facebook.com/rimi.islam.9081323)   
+   [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahsanTonmoy)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsanur-rahman-tonmoy-1680921b6)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='linkedin' height='40'>](https://web.facebook.com/profile.php?id=100010579990810)   
 
 
 
