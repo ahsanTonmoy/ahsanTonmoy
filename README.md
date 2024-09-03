@@ -21,7 +21,7 @@
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
 </p>
 
-<img align="right" alt="coding" height="300" src="https://github.com/user-attachments/assets/a60731b6-644a-4f67-b6b6-6c73533a5842">
+<img align="right" alt="coding" height="300" src="https://github.com/user-attachments/assets/2e172fc2-9619-4140-88a2-01e10ee725d8">
 
 - 🔭 I’m currently working on *React js, Tailwind, Daisy UI, mongoDB*
 
