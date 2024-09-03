@@ -20,8 +20,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
 </p>
+![Screenshot-2024-06-30-145840-removebg-preview](
 
-<img align="right" alt="coding" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" height="300" src="https://github.com/user-attachments/assets/3a506926-39ee-492e-b7b2-e4a282f56929">
 
 - 🔭 I’m currently working on *React js, Tailwind, Daisy UI, mongoDB*
 
