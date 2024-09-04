@@ -1,6 +1,6 @@
 
-## Hi there 👋, my name is Ahsanur Rahman Tonmoy
-#### I am MERN stack developer
+## Hi there 👋, My Name is Ahsanur Rahman Tonmoy
+#### I am Full stack (mern) developer
 ![github-bannar](https://github.com/user-attachments/assets/fa94ddec-e82b-442f-95a8-91a6e26aa099)
 
 
